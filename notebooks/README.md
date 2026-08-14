@@ -616,11 +616,11 @@ ONE JPG / PNG IMAGE
 Once this milestone works successfully, development will move to the interactive browser-based 3D viewer.
 
 ---
-
 ## Author
 
 **Peyman Miyandashti**  
 Information Technology and Digital Innovation Engineering  
 Universidad Politécnica de Baja California (UPBC)
 
-GitHub: [Peyman-mxli](https://github.com/Peyman-mxli)
+- GitHub: [Peyman-mxli](https://github.com/Peyman-mxli)
+- LinkedIn: [Peyman Miyandashti](https://www.linkedin.com/in/peyman-mxli/)
